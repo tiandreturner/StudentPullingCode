@@ -12,6 +12,7 @@ namespace SimpleCode
             Console.WriteLine("I hope so.");
             Console.WriteLine("I created a new branch called decker-training-branch");
             Console.WriteLine("Ready to make a pull request");
+            Console.WriteLine("Creating a branch for my fruit");
         }
     }
 }
