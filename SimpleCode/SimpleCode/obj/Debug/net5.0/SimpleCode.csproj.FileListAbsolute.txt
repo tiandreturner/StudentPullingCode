@@ -1,0 +1,16 @@
+C:\Users\draye\source\repos\StudentPullingCode\Console\SimpleCode\SimpleCode\bin\Debug\net5.0\SimpleCode.exe
+C:\Users\draye\source\repos\StudentPullingCode\Console\SimpleCode\SimpleCode\bin\Debug\net5.0\SimpleCode.deps.json
+C:\Users\draye\source\repos\StudentPullingCode\Console\SimpleCode\SimpleCode\bin\Debug\net5.0\SimpleCode.runtimeconfig.json
+C:\Users\draye\source\repos\StudentPullingCode\Console\SimpleCode\SimpleCode\bin\Debug\net5.0\SimpleCode.runtimeconfig.dev.json
+C:\Users\draye\source\repos\StudentPullingCode\Console\SimpleCode\SimpleCode\bin\Debug\net5.0\SimpleCode.dll
+C:\Users\draye\source\repos\StudentPullingCode\Console\SimpleCode\SimpleCode\bin\Debug\net5.0\ref\SimpleCode.dll
+C:\Users\draye\source\repos\StudentPullingCode\Console\SimpleCode\SimpleCode\bin\Debug\net5.0\SimpleCode.pdb
+C:\Users\draye\source\repos\StudentPullingCode\Console\SimpleCode\SimpleCode\obj\Debug\net5.0\SimpleCode.csproj.AssemblyReference.cache
+C:\Users\draye\source\repos\StudentPullingCode\Console\SimpleCode\SimpleCode\obj\Debug\net5.0\SimpleCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\draye\source\repos\StudentPullingCode\Console\SimpleCode\SimpleCode\obj\Debug\net5.0\SimpleCode.AssemblyInfoInputs.cache
+C:\Users\draye\source\repos\StudentPullingCode\Console\SimpleCode\SimpleCode\obj\Debug\net5.0\SimpleCode.AssemblyInfo.cs
+C:\Users\draye\source\repos\StudentPullingCode\Console\SimpleCode\SimpleCode\obj\Debug\net5.0\SimpleCode.csproj.CoreCompileInputs.cache
+C:\Users\draye\source\repos\StudentPullingCode\Console\SimpleCode\SimpleCode\obj\Debug\net5.0\SimpleCode.dll
+C:\Users\draye\source\repos\StudentPullingCode\Console\SimpleCode\SimpleCode\obj\Debug\net5.0\ref\SimpleCode.dll
+C:\Users\draye\source\repos\StudentPullingCode\Console\SimpleCode\SimpleCode\obj\Debug\net5.0\SimpleCode.pdb
+C:\Users\draye\source\repos\StudentPullingCode\Console\SimpleCode\SimpleCode\obj\Debug\net5.0\SimpleCode.genruntimeconfig.cache
